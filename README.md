@@ -6,6 +6,12 @@ This project analyzes e-commerce sales data using SQL to extract insights on rev
 ## Tools Used
 - SQL (SQLite)
 
+## Dataset
+This project uses the Superstore dataset.
+Source:
+[View Dataset] ([https://www.kaggle.com/code/rohitsahoo/eda-superstore-dataset])
+Note: Dataset not uploaded due to size. Please download from the link above.
+
 ## Key Analysis
 - Total sales and profit
 - Sales by region
